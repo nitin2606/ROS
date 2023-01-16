@@ -1,0 +1,19 @@
+[0.641s] Invoking command in '/home/dark_knight/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/dark_knight/ros2_ws/build/my_robot_controller/prefix_override:/home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dark_knight/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[0.896s] running develop
+[1.053s] running egg_info
+[1.053s] writing my_robot_controller.egg-info/PKG-INFO
+[1.053s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.053s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.053s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.054s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.056s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.057s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.058s] running build_ext
+[1.058s] Creating /home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.059s] Installing draw_circle script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.059s] Installing test_node script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.059s] 
+[1.059s] Installed /home/dark_knight/ros2_ws/build/my_robot_controller
+[1.059s] running install_data
+[1.059s] copying package.xml -> /home/dark_knight/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[1.095s] Invoked command in '/home/dark_knight/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/dark_knight/ros2_ws/build/my_robot_controller/prefix_override:/home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dark_knight/ros2_ws/build/my_robot_controller/build --no-deps install_data

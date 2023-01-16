@@ -1,0 +1,20 @@
+[0.656s] Invoking command in '/home/dark_knight/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/dark_knight/ros2_ws/build/my_robot_controller/prefix_override:/home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dark_knight/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[0.919s] running develop
+[1.083s] running egg_info
+[1.083s] writing my_robot_controller.egg-info/PKG-INFO
+[1.083s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.084s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.084s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.084s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.086s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.089s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.090s] running build_ext
+[1.091s] Creating /home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.092s] Installing draw_circle script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.092s] Installing pose_subscriber script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.092s] Installing test_node script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.092s] Installing turtle_controller script to /home/dark_knight/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.092s] 
+[1.092s] Installed /home/dark_knight/ros2_ws/build/my_robot_controller
+[1.092s] running install_data
+[1.148s] Invoked command in '/home/dark_knight/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/dark_knight/ros2_ws/build/my_robot_controller/prefix_override:/home/dark_knight/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dark_knight/ros2_ws/build/my_robot_controller/build --no-deps install_data
